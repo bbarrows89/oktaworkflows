@@ -11,7 +11,7 @@ A customer recently asked, _"What if I need to talk to a GraphQL service? Can Ok
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fqki9g4b2sa14m61e54n.png)
 
-Feel free to [download](https://github.com/bbarrows89/oktaworkflows/blob/main/guides/getSlackUserStatus/getSlackUserDetailsAndStatus.flow) this example and import it to your environment.
+Feel free to [download](https://github.com/bbarrows89/oktaworkflows/blob/main/guides/GraphQL/graphqlQuery.flow) this example and import it to your environment.
 
 **_Download steps:_** 
 * _right click "view raw"_ 
