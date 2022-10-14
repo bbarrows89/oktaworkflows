@@ -1,5 +1,7 @@
 # Okta Workflows Guides and Resources
 
+![Okta Workflows Logo](https://www.okta.com/sites/default/files/media/image/2021-10/Icon-T3-40x40-Workforce-ID.svg)
+
 ## Free Training - Foundations for Flowgrammers
 - Self-paced training to get started with Workflows
 - [Foundations for Flowgrammers](https://www.okta.com/training/workflows-foundations-for-flowgrammers)
